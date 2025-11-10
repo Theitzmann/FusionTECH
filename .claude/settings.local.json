@@ -9,7 +9,13 @@
       "Bash(git remote add:*)",
       "Bash(git branch:*)",
       "Bash(git add:*)",
-      "Bash(git reset:*)"
+      "Bash(git reset:*)",
+      "Bash(git fetch:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nCommit inicial do projeto FusionTECH\n\nAdiciona sistema de análise de contas a pagar e automação de boletos:\n- Dashboard integrado com análises e visualizações\n- Automação de processamento de boletos\n- Scripts de teste e análise de dados\n- Dados de exemplo (planilhas Excel)\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git config:*)",
+      "Bash(git pull:*)",
+      "Bash(git merge:*)",
+      "Bash(git commit:*)"
     ],
     "deny": [],
     "ask": []
